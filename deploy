@@ -1,0 +1,1 @@
+hugo && rsync -avz --delete public/ ron@rdev.co.za:~/rdev
